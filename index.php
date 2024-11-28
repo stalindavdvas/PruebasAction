@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Mi nombre es Stalin Vasco<p>
+    <p>Mi nombre es Stalin Vasco en instancia QA<p>
         <h1><?php echo gethostname();?></h1> 
 </body>
 </html>
